@@ -1,0 +1,18 @@
+.button-wrapper{
+    display: flex;
+    height: 4em;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: gray;
+    background-color: beige;
+    outline: 2px solid black;
+    flex: 1;
+    /* flex: 1; */
+}
+/* .operator style will be used in LOGIC */
+.operator{
+    background-color: orange;
+    color: white;
+}

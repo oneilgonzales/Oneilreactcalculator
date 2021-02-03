@@ -1,0 +1,23 @@
+
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  height: 100vh;
+  width: 100%;
+
+}
+.calc-wrapper{
+  height: 400px;
+  width: 600px;
+  background-color: green;
+}
+
+.row{
+  display: flex;
+  width: 100%;
+}
+/* align-items: = is for CENTER_VERTICALLY */
+/* justify-content: = is for  CENTER_HORIZONTALLY */
+/* display: flex = THE Default is LAYOUT HORIZONTALLY */
