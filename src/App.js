@@ -4,7 +4,7 @@ import Button from './components/Button'; //import Button to be able to use it
 import Input from './components/Input'; //import Input to be able to use it
 import ClearButton from './components/ClearButton'; //import ClearButton to be able to use it
 import * as math from 'mathjs'; //Importing MathJs as math
-
+//testing for git pages
 class App extends Component { 
     //Create State Object
     state = { 
