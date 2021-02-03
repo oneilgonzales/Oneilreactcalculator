@@ -1,8 +1,8 @@
 {
+  "homepage": "https://oneilgonzales.github.io/Oneilreactcalculator/",
   "name": "oneil-react-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oneilgonzales.github.io/Oneilreactcalculator/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy":"npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "main -d build"
   },
   "eslintConfig": {
     "extends": [
